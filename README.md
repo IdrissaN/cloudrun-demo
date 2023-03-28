@@ -58,7 +58,7 @@ Workshop to get familiar with **Google Cloud Build and Cloud Run** core concepts
 
     ```bash    
     # Here's an example
-    PROJECT_ID=cloudrun-demo
+    PROJECT_ID=<PROJECT_ID>
 
 * Get the project number (assuming the project is created above)
 
